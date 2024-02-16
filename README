@@ -1,6 +1,14 @@
 ******Ce projet est basé sur le esp32 et fait avec un workspace de platformIO IDE pour Visual Studio Code*****
 
-Le projet consiste à envoyer un signal CAN
+
+Ce repository contient deux branches: HIVER24 et AUT23
+
+
+
+AUT23: 
+
+
+- Le projet consiste à envoyer un signal CAN
 
 le code : TransmissionCAN.c
   permet d'envoyer du message CAN avec la library TWAI du esp32 avec un TJA1051
@@ -9,4 +17,5 @@ le code : TransmissionCAN.c
 
 le code : ReceptionCAN.c
   permet de lire du CAN avec la library TWAI du esp32 avec un TJA1051
+
   
