@@ -1,12 +1,14 @@
-******Ce projet est basé sur le esp32 et fait avec un workspace de platformIO IDE pour Visual Studio Code*****
+Esp32-C3_Sender:
 
-Le projet consiste à lire un signal CAN
+FRAMEWORK: ESP-IDF
+Ce code acquiert des tensions provenant d'un potentiomètre et les convertit en une valeur numérique sur 12 bits à l'aide d'un convertisseur analogique-numérique (ADC).
+Ensuite, il formate cette valeur dans un message CAN et l'envoie via le bus CAN pour la communication avec d'autres périphériques sur le réseau.
 
-le code : TransmissionCAN.c
-  permet d'envoyer du message CAN avec la library TWAI du esp32 avec un TJA1051
+Esp32Arduino:
 
-//*****Cette partie est seulement présente pour confirmer le fonctionement de la transmission*****//
+FRAMEWORK: ARDUINO
+Ce code acquiert des tensions provenant d'un potentiomètre et les convertit en une valeur numérique sur 12 bits à l'aide d'un convertisseur analogique-numérique (ADC).
+Ensuite, il formate cette valeur dans un message CAN et l'envoie via le bus CAN pour la communication avec d'autres périphériques sur le réseau.
 
-le code : ReceptionCAN.c
-  permet de lire du CAN avec la library TWAI du esp32 avec un TJA1051
+
   
