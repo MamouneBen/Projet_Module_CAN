@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "xiao ESP32C3_PCB")(type "KiCad")(uri "C:/TSO/3iemeAnnee/PROJET DE FIN D'ÉTUDES_Ben/Seeeduino-XIAO-KICAD/Seeeduino xiao ESP32C3 KiCAD Library/xiao ESP32C3_PCB.pretty")(options "")(descr ""))
+  (lib (name "KiCad")(type "KiCad")(uri "C:/TSO/3iemeAnnee/PROJET DE FIN D'ÉTUDES_Ben/LIB_ATM13-3P-BM04/ATM13-3P-BM04/KiCad")(options "")(descr ""))
+)
