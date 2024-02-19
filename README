@@ -10,5 +10,9 @@ FRAMEWORK: ARDUINO
 Ce code acquiert des tensions provenant d'un potentiomètre et les convertit en une valeur numérique sur 12 bits à l'aide d'un convertisseur analogique-numérique (ADC).
 Ensuite, il formate cette valeur dans un message CAN et l'envoie via le bus CAN pour la communication avec d'autres périphériques sur le réseau.
 
+MCP3221:
 
+FRAMEWORK: ARDUINO
+Ce code qui convertit en des tensions en provenance d'un potentiometre en une valeur numérique sur 12 bits à l'aide d'un convertisseur analogique-numérique (ADC)
+grace à un MCP3428.
   
