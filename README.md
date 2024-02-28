@@ -1,12 +1,12 @@
 # Le projet consiste à envoyer un message CAN via le CAN bus.
 
-le code TransmissionCAN.c :
+**le code TransmissionCAN.c :**
 
   permet d'envoyer du message CAN avec la library TWAI du esp32 avec un TJA1051
 
-**Cette partie est seulement présente pour confirmer le fonctionement de la transmission**
+Cette partie est seulement présente pour confirmer le fonctionement de la transmission
 
-le code ReceptionCAN.c :
+**le code ReceptionCAN.c :**
 
   permet de lire du CAN avec la library TWAI du esp32 avec un TJA1051
   
