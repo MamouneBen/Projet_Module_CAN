@@ -1,3 +1,8 @@
+
+-CODE
+
+
+
 Esp32-C3_Sender:
 
 FRAMEWORK: ESP-IDF
@@ -14,9 +19,11 @@ MCP3221:
 
 FRAMEWORK: ARDUINO
 Ce code qui convertit en des tensions en provenance d'un potentiometre en une valeur numérique sur 12 bits à l'aide d'un convertisseur analogique-numérique (ADC)
-grace à un MCP3428.
-  
-Shémas:
+
+
+
+
+PCB:
 
 FRAMEWORK: KICAD 7.0
 contient le design de la shématique et du pcb sur kicad 
