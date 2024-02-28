@@ -1,0 +1,11 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "xiao ESP32C3_PCB")(type "KiCad")(uri "C:/TSO/3iemeAnnee/PROJET DE FIN D'ÉTUDES_Ben/Seeeduino-XIAO-KICAD/Seeeduino xiao ESP32C3 KiCAD Library/xiao ESP32C3_PCB.pretty")(options "")(descr ""))
+  (lib (name "XIAO_RP2040_v1.22_SCH_PCB")(type "KiCad")(uri "C:/TSO/3iemeAnnee/PROJET DE FIN D'ÉTUDES_Ben/XIAO_RP2040_v1.22_SCH_PCB")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "LIB_BLM18KG121TZ1D")(type "KiCad")(uri "C:/TSO/3iemeAnnee/PROJET DE FIN D'ÉTUDES_Ben/lib kicad/LIB_BLM18KG121TZ1D")(options "")(descr ""))
+  (lib (name "LIB_EEEFH1H101L")(type "KiCad")(uri "C:/TSO/3iemeAnnee/PROJET DE FIN D'ÉTUDES_Ben/lib kicad/LIB_EEEFH1H101L")(options "")(descr ""))
+  (lib (name "KiCad")(type "KiCad")(uri "C:/TSO/3iemeAnnee/PROJET DE FIN D'ÉTUDES_Ben/lib kicad/LIB_EEEFH1H101L/EEEFH1H101L/KiCad")(options "")(descr ""))
+  (lib (name "LIB_1N5819HWQ-7-F")(type "KiCad")(uri "C:/TSO/3iemeAnnee/PROJET DE FIN D'ÉTUDES_Ben/lib kicad/LIB_1N5819HWQ-7-F")(options "")(descr ""))
+  (lib (name "lib kicad")(type "KiCad")(uri "C:/TSO/3iemeAnnee/PROJET DE FIN D'ÉTUDES_Ben/lib kicad")(options "")(descr ""))
+)

@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Seeeduino XIAO")(type "Legacy")(uri "C:/TSO/3iemeAnnee/PROJET DE FIN D'ÉTUDES_Ben/Seeeduino-XIAO-KICAD.lib/Seeeduino XIAO KICAD/Seeeduino XIAO.lib")(options "")(descr ""))
+  (lib (name "MOUDLE-SEEEDUINO-XIAO-ESP32C3")(type "KiCad")(uri "C:/TSO/3iemeAnnee/PROJET DE FIN D'ÉTUDES_Ben/Seeeduino-XIAO-KICAD/Seeeduino xiao ESP32C3 KiCAD Library/MOUDLE-SEEEDUINO-XIAO-ESP32C3.kicad_sym")(options "")(descr ""))
+  (lib (name "ATM13-3P-BM04")(type "KiCad")(uri "C:/TSO/3iemeAnnee/PROJET DE FIN D'ÉTUDES_Ben/LIB_ATM13-3P-BM04/ATM13-3P-BM04/KiCad/ATM13-3P-BM04.kicad_sym")(options "")(descr ""))
+  (lib (name "ATM13-4P-BM02")(type "KiCad")(uri "C:/TSO/3iemeAnnee/PROJET DE FIN D'ÉTUDES_Ben/LIB_ATM13-4P-BM02/ATM13-4P-BM02/KiCad/ATM13-4P-BM02.kicad_sym")(options "")(descr ""))
+  (lib (name "BLM18KG121TZ1D")(type "KiCad")(uri "C:/TSO/3iemeAnnee/PROJET DE FIN D'ÉTUDES_Ben/LIB_BLM18KG121TZ1D/BLM18KG121TZ1D/KiCad/BLM18KG121TZ1D.kicad_sym")(options "")(descr ""))
+  (lib (name "EEEFH1H101L")(type "Legacy")(uri "C:/TSO/3iemeAnnee/PROJET DE FIN D'ÉTUDES_Ben/lib kicad/LIB_EEEFH1H101L/EEEFH1H101L/KiCad/EEEFH1H101L.lib")(options "")(descr ""))
+  (lib (name "1N5819HWQ-7-F")(type "KiCad")(uri "C:/TSO/3iemeAnnee/PROJET DE FIN D'ÉTUDES_Ben/lib kicad/LIB_1N5819HWQ-7-F/1N5819HWQ-7-F/KiCad/1N5819HWQ-7-F.kicad_sym")(options "")(descr ""))
+)
