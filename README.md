@@ -1,11 +1,11 @@
-******Ce projet est basé sur le esp32-C3 sur un workspace platformIO IDE pour Visual Studio Code*****
+**Ce projet est basé sur le esp32-C3 sur un workspace platformIO IDE pour Visual Studio Code**
 
 Ce repository contient deux branches: HIVER24 et AUT23
 
-AUT23: 
+# AUT23: 
 Cette branche contient les dossiers pour la session d'Automne 2023.
 
-HIVER24: 
+# HIVER24: 
 Cette branche contient les dossiers pour la session d'Hiver 2024.
 
 
