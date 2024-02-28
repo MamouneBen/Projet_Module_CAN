@@ -1997,7 +1997,7 @@
   )
 
   (text "Changer le rx et le tx pour un gpio random \nhttps://www.google.com/search?sca_esv=b6ab\n7d9e5410acba&q=esp32+tja1051+schematic&tbm\n=isch&source=lnms&sa=X&ved=2ahUKEwi4x6Kqpsm\nEAxVUE1kFHTseAYkQ0pQJegQICxAB&biw=1536&bih=\n711&dpr=1.25#imgrc=Fj9Knx-6niDcOM"
-    (at 34.29 250.19 0)
+    (at 42.291 289.433 0)
     (effects (font (size 5 5)) (justify left bottom))
     (uuid 11b1ae6f-2b77-4809-846a-c3c4333b46b1)
   )
