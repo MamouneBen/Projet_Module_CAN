@@ -13,3 +13,4 @@ Cette branche contient les dossiers pour la session d'Hiver 2024.
 ![download](https://github.com/CarlDominicA/Projet_Module_CAN/assets/97920084/85a5ae52-5d1c-446a-94a5-fee64e674cb5)
 ![download](https://github.com/CarlDominicA/Projet_Module_CAN/assets/97920084/b70a16f7-16ea-400b-86fe-59ed41ba1b9a)
 ![download](https://github.com/CarlDominicA/Projet_Module_CAN/assets/97920084/7f325545-9c09-442e-9f58-eccc2546e0f8)
+![ImageStaticAffiche_CapteurCAN](https://github.com/CarlDominicA/Projet_Module_CAN/assets/97920084/0c7b7774-fba3-4f5c-ab59-0fe8e7419acd)
