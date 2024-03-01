@@ -77,17 +77,17 @@
         "name": "Shémas.kicad_sch",
         "open": false,
         "window": {
-          "display": 1,
-          "maximized": false,
-          "pos_x": 1872,
-          "pos_y": 39,
-          "size_x": 1936,
-          "size_y": 1056
+          "display": 0,
+          "maximized": true,
+          "pos_x": -9,
+          "pos_y": -9,
+          "size_x": 1938,
+          "size_y": 1048
         }
       },
       {
         "name": "Shémas.kicad_pcb",
-        "open": false,
+        "open": true,
         "window": {
           "display": 1,
           "maximized": true,
