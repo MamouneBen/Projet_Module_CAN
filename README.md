@@ -2,10 +2,10 @@
 
 Ce repository contient deux branches: HIVER24 et AUT23
 
-# AUT23: 
+**AUT23:**
 Cette branche contient les dossiers pour la session d'Automne 2023.
 
-# HIVER24: 
+**HIVER24:** 
 Cette branche contient les dossiers pour la session d'Hiver 2024.
 
 
